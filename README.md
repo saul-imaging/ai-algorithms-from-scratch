@@ -20,7 +20,7 @@ competitive_learning/
   instar_letter_recognition.py
 
 deep_learning/
-  transfer_learning_dog_cat.py
+  alexnet_style_numpy.py
 
 games/
   dots_and_boxes_pygame.py
@@ -32,7 +32,7 @@ games/
 - Ant Colony Optimization for route search over a metro-style graph.
 - Grey Wolf Optimization over benchmark functions.
 - Hybrid LVQ and Instar-style competitive learning.
-- Transfer-learning workflow for a dog/cat classifier.
+- AlexNet-style convolutional network blocks implemented directly in NumPy.
 - Pygame implementation of Dots and Boxes.
 
 ## Setup
@@ -43,7 +43,7 @@ Install the common dependencies:
 pip install -r requirements.txt
 ```
 
-Some scripts require optional dependencies such as PyTorch, torchvision, pygame, or scikit-image depending on the example being run.
+Some scripts require optional dependencies such as pygame or scikit-image depending on the example being run.
 
 ## Notes
 
