@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scikit-learn
+scikit-image
+torch
+torchvision
+tqdm
+pygame
+pyttsx3
+
